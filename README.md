@@ -1,5 +1,7 @@
 # git-scrape
 In this project, you can scrape Github user profile. User's **Followers**, **Following**, **Stars**, **Repositories** and **Bio**.
+
+
 ### You have to follow these steps
 * **create django project**
 * **create an app**
